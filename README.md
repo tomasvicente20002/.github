@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![alt text](https://github-stats-alpha.vercel.app/api?username=tomasvicente20002)
+
+
+
 <!--
 **tomasvicente20002/tomasvicente20002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
